@@ -1,0 +1,9 @@
+# ----------------------------------------------------------------------
+# bacon.py
+# Tori Grasso
+# 10/28/2019
+# ----------------------------------------------------------------------
+
+To complete this lab I used the text book and went to your office hours on friday and monday
+I also discussed with Ray the concept of making the graph and it being a multi valued dictionary
+And lastly talked with eryn on remembering how to read in a file line by line
